@@ -4,22 +4,19 @@ int main()
 {
 	int a, b;
 	cin >> a >> b;
-	if (b > 0)
-	{
+	if (b > 0) {
 		cout << a << "+" << b << "=" << a + b << endl;
 		cout << a << "*" << b << "=" << a*b << endl;
 		cout << a << "/" << b << "=" << a / b << endl;
 		cout << a << "%" << b << "=" << a%b << endl;
 	}
-	else if (b < 0)
-	{
+	else if (b < 0) {
 		cout << a << "+(" << b << ")=" << a + b << endl;
 		cout << a << "*(" << b << ")=" << a*b << endl;
 		cout << a << "/(" << b << ")=" << a / b << endl;
 		cout << a << "%(" << b << ")=" << a%b << endl;
 	}
-	else
-	{
+	else {
 		cout << a << "+0=" << a << endl;
 		cout << a << "*0=0" << endl;
 		cout << a << "/0:Error!" << endl;

@@ -5,14 +5,12 @@ int main()
 {
 	char a[5];
 	cin >> a;
-	if (a[3] > '9' || a[3] < '0')
-	{
+	if (a[3] > '9' || a[3] < '0') {
 		cout << "Error!";
+		return 0;
 	}
-	else
-	{
-		a[0] += Offset; a[1] += Offset; a[2] += Offset; a[3] += Offset;
-		cout << a;
-	}
+	for (int i = 0; i < 4; i++)
+		a[i] += Offset;
+	cout << a;
 	return 0;
 }
