@@ -5,11 +5,11 @@ Answers of SJTU Online Judge
 ========
 ### Note:
 
-- The python support is broken. So if you submit python code, the evaluation result will be "System error".
+- **The python support is broken. So if you submit python code, the evaluation result will be "System error".**
 
-- The Java code here can be compiled directly. But if you want to submit it to OJ, you need to change the name of the class to Main.
+- **The Java code here can be compiled directly. But if you want to submit it, you need to change the name of the class to “Main”.**
 
-- The file name here is just for marking. It is best to use English lowercase letters or underscores.
+- **The file name here is just for marking. It is best to use English lowercase letters or underscores.**
 
 ### Some of the problems are listed below:
 
