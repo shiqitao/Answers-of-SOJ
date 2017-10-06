@@ -1,5 +1,13 @@
 .idea/
 out/
+bin/
+obj/
+Debug/
+Future/
 *.iml
 *.vcxproj
 *.filters
+*.cbp
+*.depend
+*.layout
+*.pyproj

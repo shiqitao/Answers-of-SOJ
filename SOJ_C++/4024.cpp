@@ -1,8 +1,3 @@
-/**********
-ID:4024
-Author:Qitao Shi
-Date:2017-09-25
-**********/
 #include <iostream>
 using namespace std;
 int main()
