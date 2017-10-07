@@ -4,7 +4,7 @@ int main()
 {
 	char a[5];
 	scanf("%s", a);
-	if (a[3] > '9' || a[3] < '0') {
+	if (a[4] != '\0') {
 		printf("Error!");
 		return 0;
 	}
