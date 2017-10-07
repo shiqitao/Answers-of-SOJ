@@ -5,7 +5,7 @@ int main()
 {
 	char a[5];
 	cin >> a;
-	if (a[3] > '9' || a[3] < '0') {
+	if (a[4] != '\0') {
 		cout << "Error!";
 		return 0;
 	}
