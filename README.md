@@ -1,7 +1,7 @@
 Answers of SJTU Online Judge  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/C/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-2-blue.svg)
+![](https://img.shields.io/badge/Answers-8-blue.svg)
 ========
 ### Note:
 
