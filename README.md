@@ -23,3 +23,4 @@ Answers of SJTU Online Judge
 | [4040](https://acm.sjtu.edu.cn/OnlineJudge/problem/4040) | 计算阿姆斯特朗数      |        C++        | Passing |
 | [4046](https://acm.sjtu.edu.cn/OnlineJudge/problem/4046) | 矩阵旋转          |        C++        | Passing |
 | [4047](https://acm.sjtu.edu.cn/OnlineJudge/problem/4047) | 埃拉托色尼筛法       |        C++        | Passing |
+
