@@ -1,7 +1,7 @@
 Answers of SJTU Online Judge  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/C/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-8-blue.svg)
+![](https://img.shields.io/badge/Answers-14-blue.svg)
 ========
 ### Note:
 
@@ -23,4 +23,10 @@ Answers of SJTU Online Judge
 | [4040](https://acm.sjtu.edu.cn/OnlineJudge/problem/4040) | 计算阿姆斯特朗数      |        C++        | Passing |
 | [4046](https://acm.sjtu.edu.cn/OnlineJudge/problem/4046) | 矩阵旋转          |        C++        | Passing |
 | [4047](https://acm.sjtu.edu.cn/OnlineJudge/problem/4047) | 埃拉托色尼筛法       |        C++        | Passing |
+| [4057](https://acm.sjtu.edu.cn/OnlineJudge/problem/4057) | 回文字符串         |        C++        | Passing |
+| [4058](https://acm.sjtu.edu.cn/OnlineJudge/problem/4058) | 字符串基本操作       |        C++        | Passing |
+| [4059](https://acm.sjtu.edu.cn/OnlineJudge/problem/4059) | 求数组最大值及位置     |        C++        | Passing |
+| [4060](https://acm.sjtu.edu.cn/OnlineJudge/problem/4060) | 最优潜水策略设计      |        C++        | Passing |
+| [4067](https://acm.sjtu.edu.cn/OnlineJudge/problem/4067) | 整数加一          |        C++        | Passing |
+| [4068](https://acm.sjtu.edu.cn/OnlineJudge/problem/4068) | Z字形输出         |        C++        | Passing |
 
