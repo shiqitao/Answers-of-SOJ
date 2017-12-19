@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 class Time
@@ -86,11 +85,11 @@ int main()
 {
 	Time time1, time2;
 	cin >> time1 >> time2;
-	time1 += (time2++);	cout << time1;
-	time1 -= time2;		cout << time1;
-	++time2;			cout << time2;
-	time2 += (time1--);	cout << time2;
-	--time1;			cout << time1;
-	time2 -= time1;		cout << time2;
+	cout << (time1 += (time2++));
+	cout << (time1 -= time2);
+	cout << ++time2;
+	cout << (time2 += (time1--));
+	cout << --time1;
+	cout << (time2 -= time1);
 	return 0;
 }
