@@ -32,7 +32,7 @@ ostream& operator<<(ostream &os, const Time &obj)
 	os << obj.minute << ":";
 	if (obj.second < 10)
 		os << 0;
-	os << obj.second << endl;
+	os << obj.second;
 	return os;
 }
 istream& operator>>(istream &in, Time &obj)
@@ -85,11 +85,11 @@ int main()
 {
 	Time time1, time2;
 	cin >> time1 >> time2;
-	cout << (time1 += (time2++));
-	cout << (time1 -= time2);
-	cout << ++time2;
-	cout << (time2 += (time1--));
-	cout << --time1;
-	cout << (time2 -= time1);
+	cout << (time1 += (time2++))<<endl
+		<< (time1 -= time2) << endl
+		<< ++time2 << endl
+		<< (time2 += (time1--)) << endl
+		<< --time1 << endl
+		<< (time2 -= time1) << endl;
 	return 0;
 }
